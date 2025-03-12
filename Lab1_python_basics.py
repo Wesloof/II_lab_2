@@ -150,7 +150,7 @@ for i in range(5):
     print(num)
 
 # в цикле могут перебираться значения из списка
-lst = []
+lst = [] # задание 1 с циклом и четными числами
 suma = 0
 for i in range(10):
     lst.append(randint(1, 20))
